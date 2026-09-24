@@ -162,7 +162,7 @@ function App() {
     },
 
     {
-      name: "Raj Ghosh",
+      name: "Raju Ghosh",
       rollNumber: "BCA006",
       department: "Computer Applications",
       semester: "2nd Year",
